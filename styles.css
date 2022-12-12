@@ -118,4 +118,16 @@ img.hi{
         width:50%;
         transform:rotate(0);
     }
+    .bpb{
+        margin-bottom: 5%;
+    }
+    .c{
+        margin: 3% 0%;
+    }
+    .bp{
+        padding: 11px 20px 11px 23px;
+    }
+    .vbn{
+        margin-bottom: 7px;
+    }
 }
